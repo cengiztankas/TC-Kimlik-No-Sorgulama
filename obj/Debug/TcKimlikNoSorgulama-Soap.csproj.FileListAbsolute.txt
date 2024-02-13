@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\bin\Debug\TcKimlikNoSorgulama-Soap.exe.config
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\bin\Debug\TcKimlikNoSorgulama-Soap.exe
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\bin\Debug\TcKimlikNoSorgulama-Soap.pdb
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama-Soap.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama-Soap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama_Soap.Form1.resources
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama_Soap.Properties.Resources.resources
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama-Soap.csproj.GenerateResource.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama-Soap.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama-Soap.exe
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\TcKimlikNoSorgulama-Soap\TcKimlikNoSorgulama-Soap\obj\Debug\TcKimlikNoSorgulama-Soap.pdb
